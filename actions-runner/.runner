@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "ALBERT",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/gH3thEc1vdJdpliOIpTaAe7knDrcnaQbfxYoYT6fi8ZpqC6p9O",
+  "gitHubUrl": "https://github.com/iradualbert/githubactions",
+  "workFolder": "react-app"
+}

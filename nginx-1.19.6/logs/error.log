@@ -1,0 +1,1 @@
+2020/12/15 19:15:43 [error] 10036#12344: *1 CreateFile() "C:\Users\Iradukunda 47\Desktop\tutorials\githubactions\frontend\nginx-1.19.6/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
